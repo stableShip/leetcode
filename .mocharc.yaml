@@ -1,0 +1,9 @@
+recursive: true
+colors: true
+exit: true
+extension:
+  - "ts"
+  - "js"
+  - "mjs"
+check-leaks: false
+timeout: 20000
