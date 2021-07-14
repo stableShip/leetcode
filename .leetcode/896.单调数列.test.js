@@ -2,7 +2,7 @@ var isMonotonic = require('./896.单调数列')
 var should = require('should')
 
 
-describe.only("isMonotonic", () => {
+describe("isMonotonic", () => {
     it("isMonotonic", () => {
         should.equal(true, isMonotonic([3, 2, 1]))
 
